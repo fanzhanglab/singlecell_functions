@@ -12,5 +12,5 @@ Here we just illustrate several:
   + :star: [CITEs-seq QC and downstream analysis](https://github.com/fanzhanglab/singlecell_functions/blob/main/citeseq_qc_backup.ipynb)
   + :star: [Mixed effect modeling on associating single-cell data with synovial phenotypes](https://github.com/fanzhanglab/singlecell_functions/blob/main/linear_mixed_model_clinical_CTAP.ipynb)
   
-We are adding more to this repository and stay tuned :fire:
+We are adding more functions to this repository and stay tuned :fire:
 
